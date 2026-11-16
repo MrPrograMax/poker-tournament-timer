@@ -73,3 +73,5 @@ Project layout, build instructions and tests are documented in the [development 
 Until Morning tracks money but does not process payments. Live control from another device is not yet implemented.
 
 Found a bug or have an idea? [Open an issue](https://github.com/MrPrograMax/poker-tournament-timer/issues) with the steps, expected behavior, operating system and app version. If the project helps your home games, a GitHub star is appreciated.
+
+To support further development, you can [support the author via T-Bank](https://t.tb.ru/pm_short/4zP0U0E06Pf).
