@@ -8,6 +8,23 @@ A poker tournament timer and home game manager for Windows, macOS and Linux.
 
 Set up a tournament or cash game, seat your players, and track the timer, blinds and prize pool on a shared screen. Until Morning runs on your computer, opens in your browser, and saves games locally.
 
+![Tournament display with the timer, current and next blinds, payouts and bounty](docs/images/board.png)
+
+<details>
+<summary>More screenshots: game setup and seating</summary>
+
+**Game setup** — starting stack, blinds and a prize pool preview.
+
+![Home poker tournament setup](docs/images/setup.png)
+
+**Seating** — the player list and table diagram with numbered seats.
+
+![Nine players seated using fictional nicknames](docs/images/seating.png)
+
+</details>
+
+*Screenshots show a demo game with fictional nicknames. The app interface is in Russian.*
+
 **A pilot release for complete home games on a single device.** Used in a real home game and checked with automated tests and [randomized stress runs](docs/stress-test-2026-11-09.md). We continue improving it based on player feedback. The application interface is currently in Russian; this README is available in English and Russian.
 
 [Quick start](#quick-start) · [Features](#features)
