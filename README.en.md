@@ -11,7 +11,7 @@ Set up a tournament or cash game, seat your players, and track the timer, blinds
 ![Tournament display with the timer, current and next blinds, payouts and bounty](docs/images/board.png)
 
 <details>
-<summary>More screenshots: setup, seating and results</summary>
+<summary>More screenshots: setup, seating, players and results</summary>
 
 **Game setup** — starting stack, blinds and a prize pool preview.
 
@@ -20,6 +20,10 @@ Set up a tournament or cash game, seat your players, and track the timer, blinds
 **Seating** — the player list and table diagram with numbered seats.
 
 ![Nine players seated using fictional nicknames](docs/images/seating.png)
+
+**Players and bounties** — contributions, current bounties, knockouts, re-entries and add-ons. Mark eliminations, add players and filter by table.
+
+![Player management and progressive bounties using fictional nicknames](docs/images/players.png)
 
 **Tournament results** — player standings, prizes, bounties and net results.
 
