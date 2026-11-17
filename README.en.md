@@ -11,7 +11,7 @@ Set up a tournament or cash game, seat your players, and track the timer, blinds
 ![Tournament display with the timer, current and next blinds, payouts and bounty](docs/images/board.png)
 
 <details>
-<summary>More screenshots: game setup and seating</summary>
+<summary>More screenshots: setup, seating and results</summary>
 
 **Game setup** — starting stack, blinds and a prize pool preview.
 
@@ -21,11 +21,13 @@ Set up a tournament or cash game, seat your players, and track the timer, blinds
 
 ![Nine players seated using fictional nicknames](docs/images/seating.png)
 
+**Tournament results** — player standings, prizes, bounties and net results.
+
+![Tournament results showing player payouts and winnings](docs/images/results.png)
+
 </details>
 
 *Screenshots show a demo game with fictional nicknames. The app interface is in Russian.*
-
-**A pilot release for complete home games on a single device.** Used in a real home game and checked with automated tests and [randomized stress runs](docs/stress-test-2026-11-09.md). We continue improving it based on player feedback. The application interface is currently in Russian; this README is available in English and Russian.
 
 [Quick start](#quick-start) · [Features](#features)
 
